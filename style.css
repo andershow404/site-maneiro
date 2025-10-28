@@ -1,7 +1,7 @@
 :root {
     --cor-primaria: #4e3421;
-    --cor-secundaria: #d4af37;
-    --cor-fundo: #fff8e1;
+    --cor-secundaria: #ffffff;
+    --cor-fundo: #ffffff;
     --cor-texto-escuro: #333333;
     --cor-texto-claro: #ffffff;
 }
@@ -95,7 +95,7 @@ header {
     padding: 1rem;
     color: var(--cor-texto-claro);
     background-color: var(--cor-texto-escuro);
-    background-image: url(/imagens/banner.jpg);
+    background-image: url(/imagens/banner22222.jpg);
     background-size: cover;
     background-position: center;
 }
