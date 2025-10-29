@@ -95,7 +95,7 @@ header {
     padding: 1rem;
     color: var(--cor-texto-claro);
     background-color: var(--cor-texto-escuro);
-    background-image: url(/imagens/banner22222.jpg);
+    background-image: url(imagens/banner22222.jpg);
     background-size: cover;
     background-position: center;
 }
